@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:1:1-13:12
+	package
+		ADDED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:2:11-32
+		INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:1:1-13:12
+		INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:1:1-13:12
+		INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:3:11-12:22
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:4:12-11:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:7:12-46
+	android:authorities
+		ADDED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:5:12-50
+	android:exported
+		ADDED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:6:12-36
+	android:name
+		ADDED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:4:22-76
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:8:12-10:57
+	android:resource
+		ADDED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:10:16-54
+	android:name
+		ADDED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml:9:16-66
+uses-sdk
+INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asaye\Desktop\Sysapps\Test\node_modules\react-native-android-files\android\src\main\AndroidManifest.xml

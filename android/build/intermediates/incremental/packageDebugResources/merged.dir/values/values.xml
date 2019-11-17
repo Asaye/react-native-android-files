@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="capture">Capture</string>
+    <string name="print">Printing...</string>
+    <string name="ready">Ready for audio recording.</string>
+    <string name="recording">Audio recording in progress ...</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
