@@ -79,7 +79,7 @@ For API level 23 and below devices, only the first configuration is required. Fo
 
 1. Add the following permission outside the application tage of the AndroidManifest.xml file.
 
-       ```          <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/> ```
+```          <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/> ```
 
 2. Add the following provider tag within the application tag in the AndroidManifest.xml file.</p>
 
